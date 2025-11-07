@@ -1,60 +1,67 @@
-
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif" alt="coding" width="400"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm  Aniruddha Yalgudre </h1>
+<h1 align="center">👋 Hi, I'm Aniruddha Yalgudre</h1>
+<h3 align="center">💻 Creative Frontend Developer | Software Developer| UI/UX Enthusiast | Building Engaging Digital Experiences </h3>
 
-<img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
+---
 
-- 🔭 I’m  Passinate Front-End Web Developer | Expertise in Javascript | ReactJS | <br/> UI-Design | Competitive Programming And Dedicated Crafting 3D Interactive & Dynamic And Responsive User Experiences .
+### 🚀 About Me
 
+- 🔭 I’m a **passionate Frontend Developer** with expertise in **JavaScript, React.js, Nextjs and modern UI design**, dedicated to crafting **interactive, 3D-enhanced, and responsive user experiences**.
+- 🌱 I’m currently learning **Backend and Devops Development** to become a full-stack web developer.
+- 💡 I love building end-to-end projects that merge design precision with smooth interactivity
+- 👨‍💻 You can explore all my projects here: [**GitHub Repositories →**](https://github.com/aniruddha-yalgudre?tab=repositories)
+- 💬 Ask me about **HTML, CSS, JavaScript, Typescript, React, NextJS, UI/UX Design, Gsap Animation, Java, C, DSA, and Frontend Projects**.
+- 📫 Reach me at: **aniruddhayalgudre@gmail.com**
 
-- 🌱 I’m currently learning  Backend development
+---
 
-
-- 👨‍💻 All of my projects are available at [https://github.com/aniruddha-yalgudre?tab=repositories](https://github.com/aniruddha-yalgudre?tab=repositories)
-
-
-- 💬 Ask me about * HTML , CSS, Javascript , C , JAVA , DSA & Projects*
-
-- 📫 How to reach me *aniruddhayalgudre@gmail.com*
-
-
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect With Me
 
 <p align="left">
-
-<a href="https://x.com/AniruddhaY83682?t=o3zzttBgVL_YJfh4itaHRA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gubreleysanskar" height="30" width="40" /></a>
-
-<a href="https://www.linkedin.com/in/aniruddha-yalgudre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskar-gubreley" height="30" width="40" /></a>
-
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanskar._" height="30" width="40" /></a>
-
-
+  <a href="https://x.com/AniruddhaY83682?t=o3zzttBgVL_YJfh4itaHRA&s=09" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aniruddha-yalgudre" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/>
+  </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" width="40" height="40"/>
+  </a>
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🧠 Tech Stack & Tools
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://java.com/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/Q--MjQmzhJDTZDFvE-IIVOPn43ZvWusW1XgMpBKbYZ8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy9qYXZhLWxvZ28t/MS5wbmc" alt="react" width="40" height="40"/> </a> 
-
-<a href="https://expressjs.com/"><img src="https://imgs.search.brave.com/NLkSdSK4yPsiRVL88O8f4xAMLsSBfeddI1neo-1_vF8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS9m/NjEyOGI2YTE3YzI4/ZWMwNTRiN2FiNjdl/NTk1ZDM5ZjUwM2Ew/ZTE3YjExNjkwMTE0/MWMwNWUxYTEwMTY5/ODVhLzY4NzQ3NDcw/NzMzYTJmMmY2OTJl/NjM2YzZmNzU2NDc1/NzAyZTYzNmY2ZDJm/N2E2NjU5MzY2YzRj/Mzc2NTQ2NjEyZDMz/MzAzMDMwNzgzMzMw/MzAzMDJlNzA2ZTY3" alt="express" target="_blank" rel="noreferrer" width="100" height="35">
-<a href="https://www.mongodb.com/"><img src="https://imgs.search.brave.com/gVfXxHJRkCPb16hXb9xD9FT8cfWHcr-7xMkXhLwbx1o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9wbHVz/cG5nLmNvbS9pbWct/cG5nL2xvZ28tbW9u/Z29kYi1wbmctLTE3/NTYucG5n" alt="Mongodb" target="_blank" rel="noreferrer" width="100" height="30">
-</a>
-
-</a>
-
-<a href="https://nodejs.org/en"><img src="https://imgs.search.brave.com/qxJoOE8urW8nUyrquuAdXq42-tumHMRmCjZJ-11o79Y/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNS8w/NC8yMy8xNy80MS9u/b2RlLWpzLTczNjM5/OV8xMjgwLnBuZw" alt="Mongodb" target="_blank" rel="noreferrer" width="80" height="40">
-</a>
-<a href="https://gsap.com/"><img src="https://imgs.search.brave.com/Hu2Mh_p6Bj6mL39O0U-GlZhZ0rX3TKONnflLAI8C1Qs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dC5icmFuZGZldGNo/LmlvL2lkcE90a3p3/VmIvaWRod2F4al9s/ZS5qcGVnP3VwZGF0/ZWQ9MTcxNjQwODQ0/OTc1MA" alt="Mongodb" target="_blank" rel="noreferrer" width="80" height="60">
-</a>
-<a href="https://figma.com/"><img src="https://imgs.search.brave.com/YrtTGvokiIpRUIoYmiygPnfrvap7m5vVEGnhsPU_i74/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/ZmlnbWEuc3Zn" alt="Mongodb" target="_blank" rel="noreferrer" width="60" height="40">
-</a>
-
-
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" height="45"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="45"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="45"/></a>
+  <a href="https://nodejs.org/en" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" height="45"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45"/></a>
+  <a href="https://jestjs.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jest" alt="Jest" height="45"/></a>
+  <a href="https://postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="45"/></a>
+  <a href="https://gsap.com/" target="_blank"><img src="https://svgstack.com/media/img/gsap-logo-dNe6788698.webp" alt="GSAP" height="45"/></a>
+  <a href="https://threejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" height="45"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="45"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="45"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="45"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45"/></a>
 </p>
 
+---
 
+### ✨ Fun Fact
+
+> “Good design is invisible — great design is unforgettable.”  
+> I aim to create **experiences**, not just interfaces. 🌟
+
+---
+
+<p align="center">🚀 Let's build something amazing together!</p>
